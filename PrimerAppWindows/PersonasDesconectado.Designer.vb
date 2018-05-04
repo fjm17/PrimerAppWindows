@@ -41,7 +41,7 @@ Partial Class PersonasDesconectado
         Me.btnGuardar.Name = "btnGuardar"
         Me.btnGuardar.Size = New System.Drawing.Size(75, 23)
         Me.btnGuardar.TabIndex = 1
-        Me.btnGuardar.Text = "Guadar"
+        Me.btnGuardar.Text = "Save"
         Me.btnGuardar.UseVisualStyleBackColor = True
         '
         'PersonasDesconectado
